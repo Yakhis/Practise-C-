@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Podob_Treug\Podob_Treug\bin\Debug\net9.0\Podob_Treug.exe
+C:\Users\User\source\repos\Podob_Treug\Podob_Treug\bin\Debug\net9.0\Podob_Treug.deps.json
+C:\Users\User\source\repos\Podob_Treug\Podob_Treug\bin\Debug\net9.0\Podob_Treug.runtimeconfig.json
+C:\Users\User\source\repos\Podob_Treug\Podob_Treug\bin\Debug\net9.0\Podob_Treug.dll
+C:\Users\User\source\repos\Podob_Treug\Podob_Treug\bin\Debug\net9.0\Podob_Treug.pdb
+C:\Users\User\source\repos\Podob_Treug\Podob_Treug\obj\Debug\net9.0\Podob_Treug.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Podob_Treug\Podob_Treug\obj\Debug\net9.0\Podob_Treug.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Podob_Treug\Podob_Treug\obj\Debug\net9.0\Podob_Treug.AssemblyInfo.cs
+C:\Users\User\source\repos\Podob_Treug\Podob_Treug\obj\Debug\net9.0\Podob_Treug.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Podob_Treug\Podob_Treug\obj\Debug\net9.0\Podob_Treug.dll
+C:\Users\User\source\repos\Podob_Treug\Podob_Treug\obj\Debug\net9.0\refint\Podob_Treug.dll
+C:\Users\User\source\repos\Podob_Treug\Podob_Treug\obj\Debug\net9.0\Podob_Treug.pdb
+C:\Users\User\source\repos\Podob_Treug\Podob_Treug\obj\Debug\net9.0\Podob_Treug.genruntimeconfig.cache
+C:\Users\User\source\repos\Podob_Treug\Podob_Treug\obj\Debug\net9.0\ref\Podob_Treug.dll

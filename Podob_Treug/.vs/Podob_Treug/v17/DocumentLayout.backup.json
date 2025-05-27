@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Podob_Treug\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB534A67-D878-4A77-88F9-6222F5EBB822}|Podob_Treug\\Podob_Treug.csproj|c:\\users\\user\\source\\repos\\podob_treug\\podob_treug\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB534A67-D878-4A77-88F9-6222F5EBB822}|Podob_Treug\\Podob_Treug.csproj|solutionrelative:podob_treug\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Podob_Treug\\Podob_Treug\\Program.cs",
+              "RelativeDocumentMoniker": "Podob_Treug\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Podob_Treug\\Podob_Treug\\Program.cs*",
+              "RelativeToolTip": "Podob_Treug\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:30:19.882Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

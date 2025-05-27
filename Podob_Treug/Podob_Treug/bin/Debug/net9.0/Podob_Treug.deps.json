@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Podob_Treug/1.0.0": {
+        "runtime": {
+          "Podob_Treug.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Podob_Treug/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
