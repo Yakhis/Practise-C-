@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Quiz\Quiz\obj\Debug\net9.0\Quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Quiz\Quiz\obj\Debug\net9.0\Quiz.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Quiz\Quiz\obj\Debug\net9.0\Quiz.AssemblyInfo.cs
+C:\Users\User\source\repos\Quiz\Quiz\obj\Debug\net9.0\Quiz.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Quiz\Quiz\bin\Debug\net9.0\Quiz.exe
+C:\Users\User\source\repos\Quiz\Quiz\bin\Debug\net9.0\Quiz.deps.json
+C:\Users\User\source\repos\Quiz\Quiz\bin\Debug\net9.0\Quiz.runtimeconfig.json
+C:\Users\User\source\repos\Quiz\Quiz\bin\Debug\net9.0\Quiz.dll
+C:\Users\User\source\repos\Quiz\Quiz\bin\Debug\net9.0\Quiz.pdb
+C:\Users\User\source\repos\Quiz\Quiz\obj\Debug\net9.0\Quiz.dll
+C:\Users\User\source\repos\Quiz\Quiz\obj\Debug\net9.0\refint\Quiz.dll
+C:\Users\User\source\repos\Quiz\Quiz\obj\Debug\net9.0\Quiz.pdb
+C:\Users\User\source\repos\Quiz\Quiz\obj\Debug\net9.0\Quiz.genruntimeconfig.cache
+C:\Users\User\source\repos\Quiz\Quiz\obj\Debug\net9.0\ref\Quiz.dll
