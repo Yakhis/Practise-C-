@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Prigl_e\Prigl_e\bin\Debug\net9.0\Prigl_e.exe
+C:\Users\User\source\repos\Prigl_e\Prigl_e\bin\Debug\net9.0\Prigl_e.deps.json
+C:\Users\User\source\repos\Prigl_e\Prigl_e\bin\Debug\net9.0\Prigl_e.runtimeconfig.json
+C:\Users\User\source\repos\Prigl_e\Prigl_e\bin\Debug\net9.0\Prigl_e.dll
+C:\Users\User\source\repos\Prigl_e\Prigl_e\bin\Debug\net9.0\Prigl_e.pdb
+C:\Users\User\source\repos\Prigl_e\Prigl_e\obj\Debug\net9.0\Prigl_e.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Prigl_e\Prigl_e\obj\Debug\net9.0\Prigl_e.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Prigl_e\Prigl_e\obj\Debug\net9.0\Prigl_e.AssemblyInfo.cs
+C:\Users\User\source\repos\Prigl_e\Prigl_e\obj\Debug\net9.0\Prigl_e.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Prigl_e\Prigl_e\obj\Debug\net9.0\Prigl_e.dll
+C:\Users\User\source\repos\Prigl_e\Prigl_e\obj\Debug\net9.0\refint\Prigl_e.dll
+C:\Users\User\source\repos\Prigl_e\Prigl_e\obj\Debug\net9.0\Prigl_e.pdb
+C:\Users\User\source\repos\Prigl_e\Prigl_e\obj\Debug\net9.0\Prigl_e.genruntimeconfig.cache
+C:\Users\User\source\repos\Prigl_e\Prigl_e\obj\Debug\net9.0\ref\Prigl_e.dll
