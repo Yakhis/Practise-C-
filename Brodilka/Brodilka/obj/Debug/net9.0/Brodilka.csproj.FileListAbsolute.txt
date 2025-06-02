@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Brodilka\Brodilka\bin\Debug\net9.0\Brodilka.exe
+C:\Users\User\source\repos\Brodilka\Brodilka\bin\Debug\net9.0\Brodilka.deps.json
+C:\Users\User\source\repos\Brodilka\Brodilka\bin\Debug\net9.0\Brodilka.runtimeconfig.json
+C:\Users\User\source\repos\Brodilka\Brodilka\bin\Debug\net9.0\Brodilka.dll
+C:\Users\User\source\repos\Brodilka\Brodilka\bin\Debug\net9.0\Brodilka.pdb
+C:\Users\User\source\repos\Brodilka\Brodilka\obj\Debug\net9.0\Brodilka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Brodilka\Brodilka\obj\Debug\net9.0\Brodilka.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Brodilka\Brodilka\obj\Debug\net9.0\Brodilka.AssemblyInfo.cs
+C:\Users\User\source\repos\Brodilka\Brodilka\obj\Debug\net9.0\Brodilka.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Brodilka\Brodilka\obj\Debug\net9.0\Brodilka.dll
+C:\Users\User\source\repos\Brodilka\Brodilka\obj\Debug\net9.0\refint\Brodilka.dll
+C:\Users\User\source\repos\Brodilka\Brodilka\obj\Debug\net9.0\Brodilka.pdb
+C:\Users\User\source\repos\Brodilka\Brodilka\obj\Debug\net9.0\Brodilka.genruntimeconfig.cache
+C:\Users\User\source\repos\Brodilka\Brodilka\obj\Debug\net9.0\ref\Brodilka.dll
