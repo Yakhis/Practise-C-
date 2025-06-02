@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Biki_Kor\Biki_Kor\obj\Debug\net9.0\Biki_Kor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Biki_Kor\Biki_Kor\obj\Debug\net9.0\Biki_Kor.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Biki_Kor\Biki_Kor\obj\Debug\net9.0\Biki_Kor.AssemblyInfo.cs
+C:\Users\User\source\repos\Biki_Kor\Biki_Kor\obj\Debug\net9.0\Biki_Kor.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Biki_Kor\Biki_Kor\bin\Debug\net9.0\Biki_Kor.exe
+C:\Users\User\source\repos\Biki_Kor\Biki_Kor\bin\Debug\net9.0\Biki_Kor.deps.json
+C:\Users\User\source\repos\Biki_Kor\Biki_Kor\bin\Debug\net9.0\Biki_Kor.runtimeconfig.json
+C:\Users\User\source\repos\Biki_Kor\Biki_Kor\bin\Debug\net9.0\Biki_Kor.dll
+C:\Users\User\source\repos\Biki_Kor\Biki_Kor\bin\Debug\net9.0\Biki_Kor.pdb
+C:\Users\User\source\repos\Biki_Kor\Biki_Kor\obj\Debug\net9.0\Biki_Kor.dll
+C:\Users\User\source\repos\Biki_Kor\Biki_Kor\obj\Debug\net9.0\refint\Biki_Kor.dll
+C:\Users\User\source\repos\Biki_Kor\Biki_Kor\obj\Debug\net9.0\Biki_Kor.pdb
+C:\Users\User\source\repos\Biki_Kor\Biki_Kor\obj\Debug\net9.0\Biki_Kor.genruntimeconfig.cache
+C:\Users\User\source\repos\Biki_Kor\Biki_Kor\obj\Debug\net9.0\ref\Biki_Kor.dll
