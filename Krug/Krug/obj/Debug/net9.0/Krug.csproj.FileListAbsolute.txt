@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Krug\Krug\bin\Debug\net9.0\Krug.exe
+C:\Users\User\source\repos\Krug\Krug\bin\Debug\net9.0\Krug.deps.json
+C:\Users\User\source\repos\Krug\Krug\bin\Debug\net9.0\Krug.runtimeconfig.json
+C:\Users\User\source\repos\Krug\Krug\bin\Debug\net9.0\Krug.dll
+C:\Users\User\source\repos\Krug\Krug\bin\Debug\net9.0\Krug.pdb
+C:\Users\User\source\repos\Krug\Krug\obj\Debug\net9.0\Krug.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Krug\Krug\obj\Debug\net9.0\Krug.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Krug\Krug\obj\Debug\net9.0\Krug.AssemblyInfo.cs
+C:\Users\User\source\repos\Krug\Krug\obj\Debug\net9.0\Krug.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Krug\Krug\obj\Debug\net9.0\Krug.dll
+C:\Users\User\source\repos\Krug\Krug\obj\Debug\net9.0\refint\Krug.dll
+C:\Users\User\source\repos\Krug\Krug\obj\Debug\net9.0\Krug.pdb
+C:\Users\User\source\repos\Krug\Krug\obj\Debug\net9.0\Krug.genruntimeconfig.cache
+C:\Users\User\source\repos\Krug\Krug\obj\Debug\net9.0\ref\Krug.dll
