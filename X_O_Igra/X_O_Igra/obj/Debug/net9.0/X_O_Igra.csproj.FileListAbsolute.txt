@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\X_O_Igra\X_O_Igra\bin\Debug\net9.0\X_O_Igra.exe
+C:\Users\User\source\repos\X_O_Igra\X_O_Igra\bin\Debug\net9.0\X_O_Igra.deps.json
+C:\Users\User\source\repos\X_O_Igra\X_O_Igra\bin\Debug\net9.0\X_O_Igra.runtimeconfig.json
+C:\Users\User\source\repos\X_O_Igra\X_O_Igra\bin\Debug\net9.0\X_O_Igra.dll
+C:\Users\User\source\repos\X_O_Igra\X_O_Igra\bin\Debug\net9.0\X_O_Igra.pdb
+C:\Users\User\source\repos\X_O_Igra\X_O_Igra\obj\Debug\net9.0\X_O_Igra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\X_O_Igra\X_O_Igra\obj\Debug\net9.0\X_O_Igra.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\X_O_Igra\X_O_Igra\obj\Debug\net9.0\X_O_Igra.AssemblyInfo.cs
+C:\Users\User\source\repos\X_O_Igra\X_O_Igra\obj\Debug\net9.0\X_O_Igra.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\X_O_Igra\X_O_Igra\obj\Debug\net9.0\X_O_Igra.dll
+C:\Users\User\source\repos\X_O_Igra\X_O_Igra\obj\Debug\net9.0\refint\X_O_Igra.dll
+C:\Users\User\source\repos\X_O_Igra\X_O_Igra\obj\Debug\net9.0\X_O_Igra.pdb
+C:\Users\User\source\repos\X_O_Igra\X_O_Igra\obj\Debug\net9.0\X_O_Igra.genruntimeconfig.cache
+C:\Users\User\source\repos\X_O_Igra\X_O_Igra\obj\Debug\net9.0\ref\X_O_Igra.dll
